@@ -1,1 +1,1 @@
-# geotweet
+# geo
